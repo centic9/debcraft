@@ -36,6 +36,7 @@ RUN apt-get update -q && \
       apt-utils \
       autopkgtest \
       autodep8 \
+      codespell \
       command-not-found \
       hunspell-en-us \
       licenserecon \
