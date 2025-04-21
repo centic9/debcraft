@@ -40,9 +40,12 @@ RUN apt-get update -q && \
       command-not-found \
       hunspell-en-us \
       licenserecon \
+      lintian-brush \
+      python3-bs4 \
       python3-debian \
       python3-hunspell \
       python3-levenshtein \
+      python3-setuptools \
       shellcheck \
       xxd
 
