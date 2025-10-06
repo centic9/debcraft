@@ -7,3 +7,4 @@ debian/*.substvars
 debian/debcraft/
 debian/*-stamp
 debian/files
+/.idea/
