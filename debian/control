@@ -2,7 +2,7 @@ Source: debcraft
 Section: misc
 Maintainer: Otto Kekäläinen <otto@debian.org>
 Build-Depends:
- debhelper-compat (= 14),
+ debhelper-compat (= 13),
  dh-sequence-single-binary,
  codespell <!nocheck>,
  git-buildpackage <!nocheck>,
